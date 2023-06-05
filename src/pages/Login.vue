@@ -29,7 +29,7 @@ const handleSubmit = () => {
   const user = users.find(user => user.email === email.value)
 
   if (user && user.password === password.value) {
-    toast(`Login realiazado com sucesso, bem vindo ${user.data.name}`, { type: 'success' })
+    toast(`Login realiazado com sucesso. Bem vindo!`, { type: 'success' })
     setTimeout(() => {
       
       router.push({ name: 'dashboard' })
