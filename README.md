@@ -1,4 +1,4 @@
-# Coffe Front-end Position Test
+# Coffe Front-end Test
 
 Este é o repositório do projeto front-end Vue.js para o teste de posição da Coffe.
 
@@ -13,6 +13,9 @@ Certifique-se de ter o Node.js instalado em sua máquina. Em seguida, siga os pa
 
 3. Instale as dependências do projeto:
 
+## Projeto - Live
+
+Acesse o projeto no link [Coffe](https://coffe-landing-4j9hdyok5-allefss94.vercel.app/) 
 
 ## Scripts disponíveis
 
