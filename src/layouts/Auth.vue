@@ -1,7 +1,7 @@
 <template>
   <nav class="flex bg-gradient-to-br from-blue-600 to-blue-900 w-full px-10 py-3 sticky top-0 text-white max-w-[1600px] mx-auto z-10">
     <h1 class="w-full text-xl">
-      <a href="/auth/dashboard/#chart" class="flex gap-2 items-center">Area Logada
+      <a href="/auth/dashboard#chart" class="flex gap-2 items-center">Area Logada
 
         <Icon icon="streamline:interface-content-chart-product-data-analysis-analytics-graph-line-business-board-chart" /> 
       </a>
@@ -23,11 +23,11 @@ import {Icon} from '@iconify/vue'
 const links = [
   {
     name: 'Grafico',
-    href: '/auth/dashboard/#chart'
+    href: '/auth/dashboard#chart'
   },
   {
     name: 'Cats',
-    href: '/auth/dashboard/#cats'
+    href: '/auth/dashboard#cats'
   },
   {
     name: 'Sair',
